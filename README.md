@@ -1,4 +1,46 @@
 # 🎯 DESAFIO TÉCNICO SALESFORCE
+
+## 📌 Como Participar
+
+Siga os passos abaixo para participar do desenvolvimento do projeto:
+
+1. **Clone o repositório**
+```bash
+git clone https://github.com/Kaolhou/Desafio-SF
+```
+2. **Acesse a pasta do projeto**
+```bash
+cd Desafio-SF
+```
+3. **Instale as dependências**
+```bash
+npm install
+```
+4. **Crie uma nova Salesforce Org do zero**
+- Acesse o [formulário de registro de uma Developer Org](https://www.salesforce.com/form/developer-signup/?d=pb)
+- Utilize uma Developer Org ou uma Scratch Org
+- Certifique-se de que a org esteja totalmente limpa
+5. **Faça um Fork do repositório**
+- Crie um fork no seu GitHub
+- Conecte seu fork ao projeto local:
+```bash
+git remote add fork https://github.com/Kaolhou/Desafio-SF
+```
+6. **Desenvolva os requisitos**
+- Crie uma branch:
+```bash
+git checkout -b minha-branch
+```
+- Faça suas alterações, commits e push para o seu fork
+7. **Abra um Pull Request**
+- Envie seu PR para validação e revisão
+
+**📞 Comunicação & Suporte**
+
+Qualquer dúvida, entre em contato pelo Discord:
+
+**🔗 Link do discord:** [https://discord.com/invite/67aXRkQgkU](https://discord.com/invite/67aXRkQgkU)
+
 ## Implementação de Funil Comercial B2B - Lead to Opportunity
 
 ## 📋 CONTEXTO DA EMPRESA

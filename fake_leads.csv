@@ -1,0 +1,101 @@
+First Name,Last Name,Company,Email,Phone,Lead Score,Lead Status,Company Size,Vertical,CNPJ Validated,CNPJ Validation Date,Days Without Contact,Budget Range,Estimated Close Date,Lead Source Detail,Has Existing Project
+Morgana,Moreira,Costa-Batista,Morgana.Moreira72@live.com,(31) 3908-7495,77,Raw,50-1000,Outro,false,,7,50-100K,2026-07-03,Campanha Digital,true
+Enzo,Carvalho,Saraiva S.A.,Enzo.Carvalho@live.com,+55 (26) 4476-7209,7,Disqualified,>1000,Varejo,true,2024-12-16T04:06:20.439Z,225,<50K,2026-02-17,Website,false
+Danilo,Santos,Franco, Moreira e Xavier,Danilo_Santos@live.com,(95) 9488-3676,40,Raw,50-1000,Saúde,false,,226,<50K,2026-10-21,Outbound,false
+Gúbio,Albuquerque,Souza e Associados,gúbio.albuquerque@solutions.io,(10) 1627-6850,29,Qualified,50-1000,Manufatura,false,,155,>500K,2026-09-25,Website,false
+Rebeca,Moraes,Carvalho, Franco e Franco,Rebeca.Moraes@hotmail.com,(16) 6129-2521,49,Disqualified,>1000,Saúde,true,2025-01-27T01:49:41.059Z,294,50-100K,2026-06-26,Indicação,false
+Fabrício,Braga,Barros LTDA,Fabricio.Braga@gmail.com,+55 (49) 9222-0261,82,Disqualified,50-1000,Manufatura,true,2024-01-31T16:10:35.259Z,125,<50K,2026-03-29,Campanha Digital,false
+Heitor,Moreira,Santos LTDA,heitor.moreira@solutions.io,(92) 6194-3399,28,Disqualified,>1000,Varejo,false,,155,<50K,2026-04-14,Campanha Digital,false
+Maitê,Moreira,Nogueira, Silva e Santos,maitê.moreira@techbr.com.br,+55 (62) 4147-5075,21,Disqualified,<10,Varejo,false,,149,<50K,2026-10-28,Campanha Digital,false
+Larissa,Braga,Braga-Xavier,Larissa.Braga@hotmail.com,+55 (01) 3007-4137,62,Raw,50-1000,Outro,true,2023-01-19T03:44:05.951Z,222,50-100K,2026-04-06,Outbound,true
+Márcia,Moraes,Nogueira-Santos,Marcia.Moraes57@bol.com.br,(13) 1008-1027,78,Qualified,>1000,Manufatura,true,2024-01-04T06:05:38.083Z,52,100-500K,2026-04-11,Outro,false
+Ígor,Nogueira,Carvalho-Batista,Igor.Nogueira51@gmail.com,(55) 77965-4394,61,Qualified,<10,Financeiro,true,2024-08-03T23:39:48.540Z,1,100-500K,2026-06-20,Outro,true
+Bryan,Nogueira,Macedo-Batista,Bryan.Nogueira@bol.com.br,(62) 4740-6759,28,Qualified,>1000,Varejo,false,,31,>500K,2026-03-13,Evento,false
+Sophia,Xavier,Melo, Albuquerque e Saraiva,Sophia.Xavier25@gmail.com,(82) 41456-1008,30,Qualified,10-50,Financeiro,true,2025-02-02T17:39:19.371Z,0,100-500K,2026-01-10,Website,false
+Sophia,Reis,Moreira-Albuquerque,Sophia_Reis28@live.com,(18) 0465-6825,25,Raw,10-50,Outro,true,2025-06-30T06:16:35.289Z,171,<50K,2025-12-18,Website,true
+Morgana,Silva,Nogueira, Nogueira e Costa,Morgana.Silva@bol.com.br,(02) 6405-8669,68,Qualified,10-50,Varejo,true,2023-05-28T22:40:42.680Z,53,50-100K,2026-02-04,Outro,true
+Lorenzo,Costa,Franco LTDA,Lorenzo.Costa33@bol.com.br,(98) 7575-9018,31,Qualified,50-1000,Saúde,false,,1,50-100K,2026-10-30,Website,true
+Norberto,Batista,Nogueira-Reis,Norberto.Batista93@bol.com.br,(81) 44172-0162,49,Raw,50-1000,Varejo,false,,174,<50K,2026-03-21,Evento,true
+Arthur,Albuquerque,Braga-Martins,Arthur_Albuquerque@hotmail.com,+55 (82) 5361-6411,48,Disqualified,>1000,Manufatura,true,2024-01-02T19:38:00.490Z,223,50-100K,2025-12-27,Indicação,true
+Maria Júlia,Batista,Moraes-Oliveira,MariaJulia.Batista36@live.com,+55 (48) 3278-5807,31,Qualified,<10,Manufatura,false,,275,<50K,2026-08-12,Evento,true
+Elisa,Reis,Albuquerque EIRELI,Elisa_Reis@live.com,(81) 98644-5086,8,Qualified,>1000,Outro,false,,46,<50K,2026-03-12,Evento,true
+Enzo,Silva,Braga-Silva,Enzo_Silva@yahoo.com,(74) 2611-9060,46,Raw,50-1000,Saúde,true,2025-07-28T04:18:44.780Z,20,>500K,2026-04-24,Outro,false
+Giovanna,Oliveira,Moreira-Batista,Giovanna_Oliveira@gmail.com,(27) 12396-0001,25,Qualified,50-1000,Outro,true,2025-05-20T17:36:31.598Z,217,100-500K,2026-09-25,Indicação,true
+Joana,Costa,Batista-Nogueira,Joana_Costa79@hotmail.com,(20) 5222-8933,49,Raw,10-50,Varejo,false,,222,100-500K,2026-04-24,Indicação,true
+Fabiano,Macedo,Barros, Barros e Franco,fabiano.macedo@corp.com,+55 (28) 8785-3627,52,Qualified,<10,Saúde,true,2024-12-07T10:20:22.996Z,22,50-100K,2026-09-01,Evento,true
+Breno,Carvalho,Melo, Moraes e Moreira,Breno_Carvalho32@bol.com.br,(78) 73379-3987,65,Raw,<10,Outro,true,2025-03-19T07:58:26.396Z,140,>500K,2026-04-27,Website,true
+Eduarda,Moraes,Batista-Pereira,Eduarda.Moraes@live.com,+55 (77) 3378-6236,58,Disqualified,50-1000,Varejo,false,,279,100-500K,2026-07-20,Website,true
+Roberta,Xavier,Macedo EIRELI,Roberta.Xavier@bol.com.br,+55 (82) 5468-3706,7,Raw,<10,Manufatura,true,2024-01-23T05:22:45.486Z,208,100-500K,2025-12-09,Website,true
+Júlio,Braga,Franco e Associados,Julio.Braga39@hotmail.com,(05) 1711-8811,72,Disqualified,10-50,Saúde,false,,113,100-500K,2026-05-18,Indicação,true
+Isis,Silva,Franco-Carvalho,Isis.Silva35@hotmail.com,(15) 6241-8499,43,Qualified,10-50,Saúde,true,2024-01-02T00:13:27.268Z,172,>500K,2026-04-14,Outro,false
+João Miguel,Melo,Souza, Moreira e Franco,JoaoMiguel_Melo@gmail.com,(89) 68826-0828,15,Qualified,50-1000,Varejo,true,2025-03-02T11:45:30.728Z,269,50-100K,2026-10-22,Website,true
+César,Costa,Silva e Associados,césar.costa@corp.com,+55 (36) 5644-7199,91,Qualified,>1000,Outro,false,,75,<50K,2026-01-05,Outbound,true
+Lucca,Xavier,Santos, Melo e Saraiva,lucca.xavier@corp.com,(18) 2805-0028,43,Qualified,10-50,Manufatura,true,2024-05-11T05:45:31.600Z,37,50-100K,2026-05-13,Evento,true
+Warley,Oliveira,Batista-Costa,Warley_Oliveira@gmail.com,(39) 8379-9798,99,Raw,50-1000,Outro,true,2023-07-09T00:55:07.930Z,84,<50K,2026-06-27,Outbound,true
+Eduarda,Melo,Barros, Reis e Saraiva,eduarda.melo@solutions.io,+55 (82) 6038-1317,50,Qualified,50-1000,Saúde,false,,114,100-500K,2026-10-24,Outro,true
+Maria Clara,Moreira,Batista-Barros,MariaClara.Moreira74@hotmail.com,(44) 9678-7181,56,Raw,<10,Varejo,false,,34,100-500K,2026-08-16,Evento,true
+Yuri,Albuquerque,Costa-Xavier,Yuri_Albuquerque83@bol.com.br,+55 (59) 2710-7692,56,Disqualified,10-50,Varejo,false,,74,50-100K,2026-05-17,Evento,false
+Fabrícia,Moraes,Nogueira LTDA,Fabricia.Moraes@live.com,+55 (78) 5929-0938,87,Disqualified,50-1000,Saúde,false,,123,100-500K,2026-02-02,Evento,false
+Emanuelly,Barros,Oliveira LTDA,Emanuelly.Barros64@hotmail.com,+55 (08) 7456-9210,10,Raw,<10,Saúde,false,,231,<50K,2026-08-21,Indicação,false
+Caio,Pereira,Braga LTDA,Caio.Pereira50@gmail.com,+55 (70) 0766-2327,91,Raw,10-50,Saúde,true,2025-07-02T15:10:59.791Z,7,100-500K,2026-05-29,Website,false
+Warley,Macedo,Barros-Santos,warley.macedo@corp.com,(20) 1025-3886,39,Raw,<10,Saúde,false,,103,50-100K,2026-09-27,Website,true
+Roberta,Nogueira,Franco, Macedo e Moreira,Roberta.Nogueira98@hotmail.com,+55 (63) 8948-5224,87,Disqualified,10-50,Saúde,true,2024-01-06T16:58:48.473Z,152,<50K,2026-07-13,Evento,true
+Esther,Moraes,Oliveira, Melo e Braga,Esther_Moraes18@gmail.com,(07) 0196-1957,36,Qualified,50-1000,Financeiro,false,,186,<50K,2026-02-23,Evento,false
+Sara,Xavier,Saraiva, Franco e Souza,Sara_Xavier97@bol.com.br,+55 (60) 4609-5601,35,Qualified,<10,Saúde,false,,122,100-500K,2026-04-20,Website,true
+Talita,Nogueira,Costa, Melo e Carvalho,Talita_Nogueira@gmail.com,(92) 7524-6833,35,Qualified,>1000,Outro,false,,220,50-100K,2026-06-08,Website,false
+Fabrícia,Reis,Reis, Melo e Albuquerque,Fabricia.Reis@hotmail.com,+55 (60) 5812-5153,52,Disqualified,50-1000,Saúde,true,2023-04-28T23:54:15.294Z,177,>500K,2026-09-16,Outbound,false
+Clara,Pereira,Albuquerque S.A.,Clara.Pereira@gmail.com,(17) 33647-7666,67,Disqualified,>1000,Manufatura,true,2023-05-13T00:04:14.269Z,221,100-500K,2026-10-07,Outro,false
+Gabriel,Silva,Santos e Associados,Gabriel.Silva35@hotmail.com,(88) 9624-0856,13,Qualified,50-1000,Varejo,false,,252,100-500K,2026-07-13,Campanha Digital,true
+Nataniel,Macedo,Moreira, Costa e Martins,nataniel.macedo@techbr.com.br,(33) 5030-9646,62,Disqualified,>1000,Saúde,false,,253,50-100K,2026-06-10,Outro,true
+Alessandra,Nogueira,Carvalho e Associados,Alessandra_Nogueira56@bol.com.br,(62) 1560-3807,51,Qualified,>1000,Financeiro,true,2024-02-10T20:47:40.549Z,175,100-500K,2026-07-15,Campanha Digital,true
+Ana Júlia,Batista,Albuquerque-Moreira,AnaJulia_Batista10@gmail.com,(62) 08270-7191,55,Raw,10-50,Manufatura,true,2025-02-01T22:36:22.163Z,264,50-100K,2026-10-20,Evento,true
+Heloísa,Macedo,Souza S.A.,Heloisa.Macedo46@yahoo.com,+55 (00) 1624-1749,77,Disqualified,>1000,Saúde,false,,81,50-100K,2026-06-06,Campanha Digital,true
+Janaína,Martins,Oliveira-Macedo,Janaina_Martins39@live.com,(90) 89483-0708,78,Disqualified,50-1000,Financeiro,true,2024-06-22T04:02:32.715Z,169,50-100K,2026-10-07,Website,false
+Meire,Barros,Santos e Associados,Meire.Barros80@gmail.com,(03) 81841-5961,32,Qualified,10-50,Varejo,true,2025-01-10T15:11:12.248Z,251,50-100K,2026-07-14,Outro,true
+Ana Júlia,Nogueira,Barros, Costa e Costa,AnaJulia.Nogueira95@yahoo.com,(08) 4211-9997,25,Disqualified,10-50,Saúde,true,2023-07-29T10:54:23.579Z,107,100-500K,2026-10-03,Campanha Digital,false
+Joaquim,Franco,Moraes LTDA,Joaquim.Franco15@gmail.com,(05) 9294-6425,10,Qualified,>1000,Outro,false,,264,50-100K,2026-06-07,Outbound,false
+Eduardo,Oliveira,Moraes-Martins,Eduardo.Oliveira94@live.com,+55 (63) 6036-3742,4,Disqualified,<10,Financeiro,false,,245,<50K,2026-11-22,Website,true
+Cecília,Moraes,Moreira-Souza,Cecilia.Moraes@hotmail.com,+55 (08) 6741-6240,28,Disqualified,10-50,Financeiro,true,2023-10-11T22:34:14.726Z,287,100-500K,2026-09-26,Outbound,true
+Raul,Albuquerque,Albuquerque LTDA,Raul.Albuquerque96@gmail.com,(93) 61255-8241,57,Raw,50-1000,Financeiro,false,,66,100-500K,2026-05-03,Campanha Digital,true
+Sophia,Xavier,Melo, Silva e Silva,Sophia.Xavier81@hotmail.com,+55 (22) 7731-4598,6,Qualified,50-1000,Varejo,false,,127,>500K,2026-06-08,Campanha Digital,true
+Ana Luiza,Carvalho,Barros EIRELI,AnaLuiza_Carvalho@gmail.com,(39) 70209-1147,72,Qualified,50-1000,Manufatura,false,,71,100-500K,2026-07-28,Campanha Digital,true
+Nataniel,Saraiva,Reis, Costa e Costa,Nataniel_Saraiva65@gmail.com,(70) 9171-8202,31,Raw,>1000,Varejo,true,2023-04-01T06:30:04.119Z,16,100-500K,2026-01-16,Indicação,false
+Calebe,Melo,Reis EIRELI,Calebe.Melo@hotmail.com,(98) 1871-5949,64,Disqualified,10-50,Outro,false,,263,100-500K,2026-07-23,Evento,false
+Dalila,Pereira,Xavier EIRELI,Dalila_Pereira81@bol.com.br,+55 (52) 4353-9451,82,Disqualified,50-1000,Manufatura,true,2023-04-04T19:28:29.629Z,230,100-500K,2026-01-16,Outro,false
+Márcia,Moreira,Braga EIRELI,Marcia.Moreira14@gmail.com,(29) 17863-1834,11,Disqualified,<10,Saúde,false,,144,>500K,2026-03-03,Outro,true
+Arthur,Batista,Santos, Braga e Macedo,arthur.batista@solutions.io,(47) 9196-5218,39,Raw,50-1000,Saúde,false,,41,100-500K,2026-07-28,Outbound,true
+Pedro Henrique,Reis,Franco-Oliveira,PedroHenrique.Reis18@hotmail.com,+55 (53) 0608-6934,17,Raw,<10,Saúde,true,2023-01-05T11:56:03.664Z,297,>500K,2026-01-09,Website,false
+Washington,Saraiva,Moraes, Moreira e Albuquerque,Washington_Saraiva@bol.com.br,(21) 76728-3782,97,Disqualified,<10,Outro,false,,12,<50K,2026-07-13,Campanha Digital,true
+Salvador,Xavier,Macedo-Moreira,Salvador.Xavier@gmail.com,+55 (17) 5256-9121,65,Raw,<10,Outro,true,2025-04-18T11:33:58.634Z,166,<50K,2026-03-17,Website,false
+Matheus,Melo,Costa EIRELI,Matheus_Melo74@gmail.com,(77) 35795-4595,57,Qualified,>1000,Financeiro,true,2024-04-09T02:17:24.495Z,224,>500K,2025-12-31,Website,true
+Carla,Batista,Saraiva, Martins e Oliveira,Carla_Batista85@gmail.com,(30) 85482-2903,79,Raw,>1000,Financeiro,false,,263,<50K,2026-05-06,Indicação,false
+Ana Júlia,Pereira,Moraes, Souza e Barros,anajúlia.pereira@techbr.com.br,(56) 04661-5657,38,Qualified,<10,Financeiro,true,2025-05-09T23:07:14.609Z,54,100-500K,2026-04-13,Campanha Digital,false
+Gustavo,Braga,Franco S.A.,gustavo.braga@techbr.com.br,+55 (30) 9296-7924,89,Disqualified,10-50,Varejo,false,,264,100-500K,2026-10-25,Campanha Digital,false
+Benício,Batista,Oliveira LTDA,benício.batista@negocios.com,(40) 39676-7373,29,Raw,10-50,Manufatura,false,,19,>500K,2026-10-28,Evento,false
+Luiza,Xavier,Santos, Carvalho e Santos,Luiza.Xavier24@bol.com.br,(24) 6541-1037,16,Disqualified,10-50,Varejo,false,,290,<50K,2026-04-08,Outbound,true
+João Lucas,Macedo,Souza e Associados,joãolucas.macedo@negocios.com,(98) 06424-5098,68,Disqualified,<10,Varejo,true,2024-07-15T16:03:04.745Z,163,<50K,2026-03-23,Campanha Digital,true
+Suélen,Costa,Reis LTDA,Suelen_Costa67@hotmail.com,(72) 78294-0388,6,Qualified,50-1000,Manufatura,false,,133,>500K,2026-04-20,Evento,true
+Joana,Nogueira,Braga, Carvalho e Saraiva,Joana_Nogueira40@live.com,(44) 3875-3671,10,Qualified,>1000,Saúde,false,,13,100-500K,2026-01-06,Indicação,true
+Théo,Moraes,Pereira, Martins e Silva,Theo_Moraes@yahoo.com,(32) 33075-7618,52,Raw,>1000,Financeiro,false,,157,<50K,2026-01-31,Evento,false
+Vicente,Silva,Costa-Pereira,Vicente.Silva5@live.com,+55 (57) 2229-8266,12,Disqualified,10-50,Outro,false,,162,<50K,2026-09-01,Indicação,false
+Vitor,Pereira,Silva, Batista e Carvalho,Vitor.Pereira81@bol.com.br,(09) 66194-2875,73,Qualified,<10,Varejo,true,2025-03-01T17:27:27.667Z,195,100-500K,2026-04-07,Campanha Digital,false
+Eloá,Silva,Carvalho-Albuquerque,eloá.silva@corp.com,(84) 25114-6992,15,Disqualified,>1000,Outro,false,,198,100-500K,2026-06-21,Campanha Digital,true
+Maria Júlia,Saraiva,Silva, Albuquerque e Moreira,MariaJulia_Saraiva@gmail.com,(14) 5255-6566,31,Disqualified,>1000,Saúde,true,2024-02-19T01:09:26.334Z,186,>500K,2026-09-30,Outbound,false
+Anthony,Albuquerque,Reis, Nogueira e Saraiva,Anthony.Albuquerque71@bol.com.br,(09) 2280-5184,69,Disqualified,>1000,Saúde,false,,109,<50K,2026-10-25,Outro,false
+Salvador,Melo,Reis S.A.,Salvador_Melo69@yahoo.com,+55 (33) 6012-5058,35,Qualified,>1000,Manufatura,true,2025-11-27T16:47:58.424Z,201,>500K,2026-05-10,Evento,true
+João Lucas,Albuquerque,Braga EIRELI,JoaoLucas_Albuquerque@yahoo.com,+55 (81) 7516-8328,82,Raw,<10,Manufatura,false,,51,>500K,2026-10-05,Evento,true
+Sirineu,Barros,Melo S.A.,sirineu.barros@techbr.com.br,+55 (45) 3790-9645,41,Qualified,<10,Financeiro,false,,74,>500K,2026-05-11,Outro,false
+Núbia,Souza,Reis-Moreira,núbia.souza@negocios.com,+55 (97) 9381-9914,4,Disqualified,>1000,Saúde,false,,272,<50K,2026-08-30,Outro,true
+Pietro,Silva,Oliveira, Saraiva e Franco,Pietro.Silva@hotmail.com,+55 (22) 4684-2759,69,Raw,<10,Saúde,false,,160,<50K,2026-01-27,Website,false
+Marcelo,Batista,Melo, Martins e Barros,Marcelo.Batista@yahoo.com,(36) 47407-8798,53,Qualified,<10,Outro,true,2025-11-08T12:53:23.920Z,49,50-100K,2026-02-04,Outbound,true
+Manuela,Carvalho,Oliveira-Xavier,Manuela_Carvalho49@gmail.com,(11) 9548-6009,58,Raw,50-1000,Manufatura,true,2025-04-22T21:29:22.860Z,13,50-100K,2026-03-01,Indicação,true
+Talita,Moraes,Martins LTDA,Talita_Moraes62@bol.com.br,(61) 36583-7697,32,Qualified,50-1000,Outro,false,,217,50-100K,2025-12-14,Indicação,false
+Pablo,Moreira,Braga Comércio,Pablo.Moreira@yahoo.com,(06) 6729-0798,79,Qualified,10-50,Manufatura,false,,210,<50K,2026-04-15,Evento,false
+Pietro,Saraiva,Barros, Moreira e Silva,Pietro.Saraiva9@bol.com.br,(66) 68749-2211,48,Raw,10-50,Outro,false,,286,100-500K,2026-03-27,Indicação,true
+Marcela,Pereira,Melo-Barros,Marcela.Pereira@live.com,+55 (84) 1942-4962,29,Disqualified,>1000,Manufatura,true,2025-07-28T09:45:01.042Z,247,>500K,2026-02-10,Evento,true
+Felícia,Barros,Xavier LTDA,Felicia.Barros64@hotmail.com,(11) 7307-2039,39,Raw,<10,Saúde,false,,10,<50K,2026-11-09,Evento,false
+Félix,Braga,Albuquerque-Nogueira,Felix_Braga79@live.com,+55 (05) 0633-2152,59,Disqualified,<10,Varejo,true,2023-04-16T22:12:34.826Z,226,50-100K,2026-08-11,Campanha Digital,false
+Felipe,Nogueira,Martins, Moraes e Albuquerque,felipe.nogueira@solutions.io,(24) 31953-8542,22,Qualified,<10,Varejo,false,,232,100-500K,2026-06-07,Indicação,true
+Yuri,Oliveira,Albuquerque-Moreira,Yuri_Oliveira69@live.com,(86) 6026-0496,22,Qualified,<10,Financeiro,true,2024-03-11T02:11:37.843Z,122,50-100K,2026-04-16,Outbound,false
+Maria Alice,Saraiva,Braga-Moraes,mariaalice.saraiva@negocios.com,+55 (83) 6820-3004,31,Qualified,<10,Manufatura,true,2025-04-29T23:13:53.215Z,48,50-100K,2026-05-03,Website,true
+Pietro,Souza,Nogueira, Martins e Martins,Pietro.Souza@bol.com.br,(83) 9213-5870,92,Qualified,10-50,Manufatura,false,,96,50-100K,2026-06-20,Outro,false
