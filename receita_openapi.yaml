@@ -11,6 +11,7 @@ paths:
   /cnpj/{cnpj}:
     get:
       summary: Consulta dados cadastrais de um CNPJ
+      operationId: Consultar_CNPJ
       parameters:
         - name: cnpj
           in: path
@@ -19,66 +20,60 @@ paths:
             type: string
           description: Número do CNPJ sem pontuação
       responses:
-        '200':
+        "200":
           description: Dados encontrados
           content:
             application/json:
               schema:
-                type: object
-                properties:
-                  cnpj:
-                    type: string
-                  razao_social:
-                    type: string
-                  nome_fantasia:
-                    type: string
-                  situacao_cadastral:
-                    type: string
-                  regime_tributario:
-                    type: string
-                  cnae_principal:
-                    type: string
-                  endereco:
-                    type: object
-                    properties:
-                      logradouro:
-                        type: string
-                      numero:
-                        type: string
-                      complemento:
-                        type: string
-                      bairro:
-                        type: string
-                      cidade:
-                        type: string
-                      estado:
-                        type: string
-                      cep:
-                        type: string
-                example:
-                  cnpj: "11111111000191"
-                  razao_social: "Consultoria ABC Ltda"
-                  nome_fantasia: "ABC Consultoria"
-                  situacao_cadastral: "Ativa"
-                  regime_tributario: "Lucro Presumido"
-                  cnae_principal: "6204-0/00"
-                  endereco:
-                    logradouro: "Rua das Flores"
-                    numero: "123"
-                    complemento: "Sala 201"
-                    bairro: "Centro"
-                    cidade: "São Paulo"
-                    estado: "SP"
-                    cep: "01000-000"
+                $ref: "#/components/schemas/CNPJResponse"
 
-        '404':
+        "404":
           description: CNPJ não encontrado
           content:
             application/json:
               schema:
-                type: object
-                properties:
-                  error:
-                    type: string
-                example:
-                  error: "CNPJ não encontrado"
+                $ref: "#/components/schemas/ErrorResponse"
+
+components:
+  schemas:
+    CNPJResponse:
+      type: object
+      properties:
+        cnpj:
+          type: string
+        razao_social:
+          type: string
+        nome_fantasia:
+          type: string
+        situacao_cadastral:
+          type: string
+        regime_tributario:
+          type: string
+        cnae_principal:
+          type: string
+        endereco:
+          $ref: "#/components/schemas/Endereco"
+
+    Endereco:
+      type: object
+      properties:
+        logradouro:
+          type: string
+        numero:
+          type: string
+        complemento:
+          type: string
+        bairro:
+          type: string
+        cidade:
+          type: string
+        estado:
+          type: string
+        cep:
+          type: string
+
+    ErrorResponse:
+      type: object
+      properties:
+        error:
+          type: string
