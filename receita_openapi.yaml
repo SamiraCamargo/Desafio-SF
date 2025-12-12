@@ -1,79 +1,72 @@
 openapi: 3.0.3
 info:
-  title: Receita Federal Mock API
+  title: ReceitaWS - Consulta CNPJ
   version: 1.0.0
-  description: API mock para consulta de CNPJ utilizada no desafio de integração Salesforce.
+  description: OpenAPI para consulta de CNPJ via receitaws.com.br
 
 servers:
-  - url: https://api.receita.mock
+  - url: https://www.receitaws.com.br/v1
 
 paths:
   /cnpj/{cnpj}:
     get:
-      summary: Consulta dados cadastrais de um CNPJ
       operationId: Consultar_CNPJ
+      summary: Consulta dados cadastrais pelo CNPJ
       parameters:
         - name: cnpj
           in: path
           required: true
+          description: CNPJ (somente números)
           schema:
             type: string
-          description: Número do CNPJ sem pontuação
       responses:
         "200":
           description: Dados encontrados
           content:
             application/json:
               schema:
-                $ref: "#/components/schemas/CNPJResponse"
-
+                type: object
+                properties:
+                  status: { type: string }
+                  message: { type: string }
+                  cpf_cnpj: { type: string }
+                  cnpj: { type: string }
+                  tipo: { type: string }
+                  abertura: { type: string }
+                  nome: { type: string }
+                  fantasia: { type: string }
+                  porte: { type: string }
+                  natureza_juridica: { type: string }
+                  atividades_principais:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        code: { type: string }
+                        text: { type: string }
+                  atividades_secundarias:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        code: { type: string }
+                        text: { type: string }
+                  endereco:
+                    type: object
+                    properties:
+                      logradouro: { type: string }
+                      numero: { type: string }
+                      complemento: { type: string }
+                      bairro: { type: string }
+                      municipio: { type: string }
+                      uf: { type: string }
+                      cep: { type: string }
         "404":
           description: CNPJ não encontrado
           content:
             application/json:
               schema:
-                $ref: "#/components/schemas/ErrorResponse"
-
-components:
-  schemas:
-    CNPJResponse:
-      type: object
-      properties:
-        cnpj:
-          type: string
-        razao_social:
-          type: string
-        nome_fantasia:
-          type: string
-        situacao_cadastral:
-          type: string
-        regime_tributario:
-          type: string
-        cnae_principal:
-          type: string
-        endereco:
-          $ref: "#/components/schemas/Endereco"
-
-    Endereco:
-      type: object
-      properties:
-        logradouro:
-          type: string
-        numero:
-          type: string
-        complemento:
-          type: string
-        bairro:
-          type: string
-        cidade:
-          type: string
-        estado:
-          type: string
-        cep:
-          type: string
-
-    ErrorResponse:
-      type: object
-      properties:
-        error:
-          type: string
+                type: object
+                properties:
+                  status: { type: string }
+                  message: { type: string }
